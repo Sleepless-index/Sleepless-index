@@ -1,16 +1,6 @@
-# Sleepless-index
+## About Me
 
-i don't know what i'm doing.  
-i make apps for personal use.
+～(꒪꒳꒪)～
+idk what i'm doing but i like making things for myself, so i keep doing that ₍^. .^₎⟆
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sleepless-index&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepless-index&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sleepless-index&theme=dark&hide_border=true)
-
-</div>
